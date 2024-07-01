@@ -1,4 +1,4 @@
-![image](https://github.com/Powerlearnproject/se-assignment-5-limo39/assets/94519855/accf8e30-33b9-42af-badb-3a3f9ffa716a)1. Installation of VS Code:
+1. Installation of VS Code:
 
 Prerequisites:    
 Operating System: Ensure you are running Windows 11 or a compatible version of Windows.     
