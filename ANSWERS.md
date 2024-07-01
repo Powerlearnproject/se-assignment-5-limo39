@@ -1,4 +1,4 @@
-1. Installation of VS Code:
+![image](https://github.com/Powerlearnproject/se-assignment-5-limo39/assets/94519855/accf8e30-33b9-42af-badb-3a3f9ffa716a)1. Installation of VS Code:
 
 Prerequisites:    
 Operating System: Ensure you are running Windows 11 or a compatible version of Windows.     
@@ -31,8 +31,9 @@ Wait for the installer to complete the installation process. This may take a few
 Once installation is finished, you will see a confirmation message. Click "Finish" to exit the setup wizard.    
 
 Launch Visual Studio Code.     
+![image](https://github.com/Powerlearnproject/se-assignment-5-limo39/assets/94519855/9755bd6f-2740-4eb4-a54f-b908e1f25356)
 
-
+----
 
 2. First-time Setup:       
 
@@ -71,7 +72,7 @@ Take time to review other VS Code features like debugging, tasks, and workspace 
 Explore the documentation (Help > Documentation), community forums, and tutorials to maximize your productivity with VS Code.   
 
 
-
+----
 3. User Interface Overview:    
 
 i. Activity Bar     
@@ -110,6 +111,9 @@ Language Mode: Displays the language mode of the current file and allows you to 
 Encoding and End-of-Line Sequence: Shows the file encoding and end-of-line sequence (e.g., LF or CRLF).   
 Notifications and Errors: Displays errors, warnings, and notifications related to your project.    
 
+![image](https://github.com/Powerlearnproject/se-assignment-5-limo39/assets/94519855/328c6a75-8b75-4500-923f-8ddc0bfe963d)
+
+----
 4. Command Palette:    
 
 The Command Palette in VS Code is a powerful tool that provides quick access to a wide range of commands and features within the editor. It allows users to execute commands, perform tasks, and configure settings without having to navigate through the menu system.    
@@ -217,6 +221,11 @@ Access the Command Palette (Ctrl+Shift+P), type install extensions, and select E
 Committing changes with Git:    
 Access the Command Palette (Ctrl+Shift+P), type commit, and select Git: Commit. Enter a commit message and confirm the commit.    
 
+
+![image](https://github.com/Powerlearnproject/se-assignment-5-limo39/assets/94519855/27d724c4-b4ec-46f9-b599-309835dcda6a)
+
+----
+
 5. Extensions in VS Code:     
 
 Role of Extensions in VS Code     
@@ -268,6 +277,9 @@ Purpose: Auto-completes filenames in import statements.
 Benefits: Reduces errors and increases coding efficiency by suggesting file paths as you type.     
 
 
+![image](https://github.com/Powerlearnproject/se-assignment-5-limo39/assets/94519855/ceb1ce4a-f390-4f9e-8912-00cfec2a6d60)
+
+----
 6. Integrated Terminal:    
 
 
@@ -321,6 +333,11 @@ Unified Environment:
 Single Window: Maintain a single window for all development activities, reducing clutter and improving focus.    
 Project Management: Handle multiple projects or microservices in different terminal instances within the same VS Code window.    
 
+
+![image](https://github.com/Powerlearnproject/se-assignment-5-limo39/assets/94519855/30ff9162-4b86-4921-9408-99b51cec6cfb)
+
+---- 
+
 7. File and Folder Management:         
 
 Creating Files and Folders      
@@ -368,6 +385,8 @@ Go to Definition:
 Code Navigation: Right-click on a function, variable, or class and select Go to Definition or use the shortcut F12 to navigate directly to the definition within the codebase.   
 
 
+![image](https://github.com/Powerlearnproject/se-assignment-5-limo39/assets/94519855/0acf6333-02e7-43cc-bf4a-3f53a5ab7f9b)
+
 
 8. Settings and Preferences:    
 
@@ -405,7 +424,8 @@ In the Keyboard Shortcuts editor, you can search for commands and customize thei
 Keybindings JSON:     
 For more advanced customization, click on the icon at the top right of the Keyboard Shortcuts editor that says Open Keyboard Shortcuts (JSON). This will open the keybindings.json file  where you can add or modify keybindings manually.    
 
-
+![image](https://github.com/Powerlearnproject/se-assignment-5-limo39/assets/94519855/27b01b5e-8372-43b5-afbd-8569ae20719c)
+----
 
 9. Debugging in VS Code:     
 
@@ -453,6 +473,12 @@ Configure the debugger to break on exceptions. You can set it to break on all ex
 Inline Values:     
 Display variable values inline within the editor during a debugging session. This provides a clear and immediate view of variable states without needing to look at separate panels.   
 
+
+
+
+![image](https://github.com/Powerlearnproject/se-assignment-5-limo39/assets/94519855/65ace71a-a891-4718-93c2-96b9685d3fc4)
+
+----
 10. Using Source Control:     
 
 
@@ -493,3 +519,4 @@ git push origin master
 
 Replace master with the name of your branch if you are working on a different branch.    
     
+![image](https://github.com/Powerlearnproject/se-assignment-5-limo39/assets/94519855/ab7d4ad3-1bad-4cab-a7d3-abb114658904)
